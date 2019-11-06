@@ -1,7 +1,7 @@
 
 Front End da aplicação da Semana Oministack 8 
 
-.## Scripts
+## Scripts
 
 No diretório do projeto só executar:
 Para instalar as depedencias
